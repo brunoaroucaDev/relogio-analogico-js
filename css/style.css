@@ -97,3 +97,8 @@ footer {
     color: #FFF;
     font-size: 13px;
 }
+
+footer a{
+    color: rgb(167, 167, 167);
+    text-decoration: none;
+}
